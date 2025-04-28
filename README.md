@@ -10,7 +10,7 @@ I worked with two publicly available credit card transaction datasets to analyze
 
 ## Files
 
-* `Fraud Detection with Data Imbalance.docx`: The project report detailing the methodology, findings, and conclusions.
+* `Fraud Detection with Data Imbalance.pdf`: The project report detailing the methodology, findings, and conclusions.
 * `FraudDetection.ipynb`: The main Jupyter Notebook containing the code for data loading, preprocessing, model training, evaluation, and SHAP analysis.
 * `requirements.txt`: A list of necessary Python libraries to run the project.
 * `README.md`: This file, providing an overview of the project.
